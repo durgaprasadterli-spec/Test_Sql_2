@@ -1,0 +1,10 @@
+pandas
+mysql-connector-python
+
+langchain
+langgraph
+langchain-openai
+langchain-core
+
+python-dotenv
+openai
